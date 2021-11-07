@@ -9,7 +9,7 @@
 - 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn.
 
 ### Languages and Technologies
-- Python
+- Python ![Python](https://th.bing.com/th/id/R.f1a17d1ca3dcc01c4a203a440dc18b21?rik=gVu%2fi6NXi7zDPg&pid=ImgRaw&r=0)
 - Javascript
 - Java
 - React
