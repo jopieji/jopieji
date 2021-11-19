@@ -5,7 +5,7 @@
 - 👋 I'm 20 year old computer science student at DePaul University.
 - 👀 I’m interested in sports, finance, and music.
 - 🌱 I’m currently learning React, Node.js, and Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on financial related projects and apps using APIs.
+- 💞️ I’m looking to collaborate on financial related projects and projects finding creative solutions regarding sustainability and food waste.
 - 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn.
 
 ### Languages and Technologies
