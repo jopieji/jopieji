@@ -11,9 +11,8 @@
 ### Languages and Technologies
 - Python
 - JavaScript
-- React 
-- HTML/CSS
 - Java
+- HTML/CSS
 
 ---
 
