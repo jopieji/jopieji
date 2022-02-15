@@ -13,7 +13,8 @@
 - Python
 - JavaScript
 - Java
-- HTML/CSS
+- Basic React
+- SQL
 
 ---
 
