@@ -17,7 +17,12 @@
 - SQL
 
 ---
+### Stats
+![](https://github.com/jopieji/github-stats/blob/master/generated/overview.svg)
+---
+![](https://github.com/jopieji/github-stats/blob/master/generated/languages.svg)
 
+---
 ### Tools
 - Git / Github
 - Figma
@@ -28,4 +33,5 @@
 jopieji/jopieji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 
+
+
