@@ -14,7 +14,6 @@
 - JavaScript
 - Java
 - React
-- SQL
 
 ---
 ### Stats
@@ -25,8 +24,11 @@
 ---
 ### Tools
 - Git / Github
+- Firebase
+- Heroku
+- Docker
 - Figma
-- Familiar with Agile, Waterfall, Scrum
+- Familiar with Agile
 - Familiar with SDLC and industry best practices
 ---
 <!---
