@@ -27,7 +27,7 @@
 - Firebase
 - Heroku
 - Docker
-- Figma
+- Postman
 - Familiar with Agile
 - Familiar with SDLC and industry best practices
 ---
