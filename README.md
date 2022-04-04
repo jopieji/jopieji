@@ -2,7 +2,7 @@
 ### My name is **Jake Opie**. 
 
 
-- 👋 I'm a 20 year old computer science student at DePaul University.
+- 👋 I'm a 21 year old computer science student at DePaul University.
 - 👀 I’m interested in sports, finance, sustainability, and music.
 - 🌱 I’m currently learning Java, React, Data Structures, and Algorithms.
 - 🛠️ I'm working on a CTA Train Arrival Notification Web App right now. 
