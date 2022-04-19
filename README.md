@@ -15,6 +15,9 @@
 - Java
 - React
 
+### Future Plans
+I've accepted a Software Engineering Internship at Climate LLC for the Summer of 2022. I couldn't be more excited, and cannot wait to get started!
+
 ---
 ### Stats
 ![](https://github.com/jopieji/github-stats/blob/master/generated/overview.svg)
