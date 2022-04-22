@@ -29,8 +29,6 @@ I've accepted a Software Engineering Internship at Climate LLC for the Summer of
 - Git / Github
 - Firebase
 - Heroku
-- Docker
-- Postman
 - Familiar with Agile
 - Familiar with SDLC and industry best practices
 ---
