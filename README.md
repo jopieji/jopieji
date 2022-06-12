@@ -24,6 +24,9 @@
 ---
 ### Tools
 - Git / Github
+- Gitlab
+- Docker
+- AWS
 - Firebase
 - Heroku
 - Familiar with Agile
