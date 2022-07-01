@@ -23,10 +23,10 @@
 
 ---
 ### Tools
-- Git / Github
-- Gitlab
+- Git / Github / Gitlab
 - Docker
 - AWS
+- Maven
 - Firebase
 - Heroku
 - Familiar with Agile
