@@ -4,7 +4,7 @@
 
 - 👋 I'm a computer science student at DePaul University.
 - 👀 I’m interested in sports, finance, sustainability, and music.
-- 🌱 I’m currently learning about Spring Boot, REST APIs, Developer Support, Docker, and AWS.
+- 🌱 I’m currently learning about algorithm analysis and database systems.
 - 🛠️ I'm just finished my internship at Climate, LLC, and now I am working on my personal projects and LeetCode practice!
 - :closed_book: I'm currently taking coursework in Algorithms, Database Systems, and Technical Writing.
 - 💞️ I’m looking to collaborate on financial related projects and projects finding creative solutions regarding sustainability and food waste.
