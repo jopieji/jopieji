@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about algorithm analysis and database systems.
 - 🛠️ I'm just finished my internship at Climate, LLC, and now I am working on my personal projects and LeetCode practice!
 - :closed_book: I'm currently taking coursework in Algorithms, Database Systems, and Technical Writing.
-- 💞️ I’m looking to collaborate on financial related projects and projects finding creative solutions regarding sustainability and food waste.
+- 💞️ I’m looking to collaborate on financial related projects and projects finding creative solutions regarding sustainability.
 - 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
 
 ### Languages and Technologies
