@@ -30,7 +30,7 @@
 - AWS
 - Maven
 - Firebase
-- Familiar with Agile
+- Familiar with Agile and JIRA Suite
 - Familiar with SDLC and industry best practices
 ---
 <!---
