@@ -2,7 +2,7 @@
 ### My name is **Jake Opie**. 
 
 
-- 👋 I'm a computer science student at DePaul University.
+- 👋 I'm a third year computer science student at DePaul University.
 - 👀 I’m interested in sports, finance, sustainability, and music.
 - 🌱 I’m currently learning about algorithm analysis and database systems.
 - 🛠️ I'm working on a financial dashboard app using Plaid, and I am excited to start as a Software Engineering Intern at CCC Intelligent Solutions in January!
