@@ -4,8 +4,7 @@
 
 - 👋 I'm a third year computer science student at DePaul University.
 - 👀 I’m interested in sports, finance, sustainability, and music.
-- 🌱 I’m currently learning about algorithm analysis and database systems.
-- 🛠️ I'm working on a financial dashboard app using Plaid, and I am excited to start as a Software Engineering Intern at CCC Intelligent Solutions in January!
+- 🛠️ I'm working on getting accustomed to my busy schedule. I start a new internship with CCC Intelligent Solutions on January 9th, and I couldn't be more excited!
 - :closed_book: I'm currently taking coursework in Computer Systems and Object Oriented Software Development.
 - 💞️ I’m looking to collaborate on financial related projects and projects finding creative solutions regarding sustainability.
 - 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
