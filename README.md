@@ -4,7 +4,7 @@
 
 - 👋 I'm a third year computer science student at DePaul University.
 - 👀 I’m interested in sports, finance, sustainability, and music.
-- 🛠️ I'm working on getting accustomed to my busy schedule. I'm working on a Java-based Git Repository Code Analysis tool. I also start a new internship with CCC Intelligent Solutions on January 9th, and I couldn't be more excited!
+- 🛠️ I'm working on getting accustomed to my busy schedule. I'm working on a Java-based Git Repository Code Analysis tool. I started a new internship at CCC Intelligent Solutions this month, and I'm working towards getting onboarded so I can contribute to my project.
 - :closed_book: I'm currently taking coursework in Computer Systems and Object Oriented Software Development. I also have a course that focuses on enhancing my internship experience.
 - 💞️ I’m looking to collaborate on financial related projects and projects finding creative solutions regarding sustainability.
 - 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
@@ -15,6 +15,7 @@
 - Java
 - React
 - Spring Boot
+- Vue.js
 
 ---
 ### Stats
