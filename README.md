@@ -3,9 +3,9 @@
 
 
 - 👋 I'm a third year student at DePaul University studying with an emphasis in Software Development.
-- 👀 I’m interested in sports, cooking, financesustainability, and music.
-- 🛠️ I'm recently finished a basic version of a Java-based Git Repository Code Analysis tool. I started a new internship at CCC Intelligent Solutions in January, and I'm working on the Workflow team on security optimizations, new security protocols, and API development and enhancements for my team's main search algorithm.
-- :closed_book: I just finished up Winter Quarter at DePaul, and I'm looking forward to my continued coursework in computer systems and software testing.
+- 👀 I’m interested in sports, cooking, finance, sustainability, and music.
+- 🛠️ I'm recently finished a basic version of a Java-based Git Repository Code Analysis tool. I started a new internship at CCC Intelligent Solutions in January, and I'm working on the Workflow team on security optimizations, new security protocols, API development, and enhancements for my team's main search algorithm.
+- :closed_book: I'm wrapping up Spring Quarter at DePaul, excelling in my coursework in computer systems and software testing.
 - 💞️ I’m looking to collaborate on financial related projects and projects finding creative solutions regarding sustainability.
 - 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
 
@@ -15,6 +15,7 @@
 - Java
 - React
 - Spring Boot
+- SQL
 
 ---
 ### Stats
@@ -31,6 +32,8 @@
 - Firebase
 - Jenkins
 - SVN
+- Postman
+- Selenium
 - Familiar with Agile and JIRA Suite, VersionOne
 - Familiar with SDLC and industry best practices
 ---
