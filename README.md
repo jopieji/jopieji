@@ -18,13 +18,6 @@
 - C
 - Spring Boot
 - SQL (MySQL, PostgreSQL, SQLite)
-
----
-### Stats
-![](https://github.com/jopieji/github-stats/blob/master/generated/overview.svg)
----
-![](https://github.com/jopieji/github-stats/blob/master/generated/languages.svg)
-
 ---
 ### Tools
 - Git / Github / Gitlab
@@ -42,9 +35,10 @@
 - Familiar with Agile, SAFe, and JIRA Suite, VersionOne
 - Familiar with SDLC and industry best practices
 ---
-<!---
-jopieji/jopieji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Stats
+![](https://github.com/jopieji/github-stats/blob/master/generated/overview.svg)
+---
+![](https://github.com/jopieji/github-stats/blob/master/generated/languages.svg)
 
+---
 
