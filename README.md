@@ -1,5 +1,5 @@
-2## Hi Everyone!
-### My name is **Jake Opie**. 
+## Hi Everyone!
+### I'm **Jake Opie**. 
 
 
 - 👋 I'm a fourth year student at DePaul University studying Computer Science with an emphasis in Software Development.
