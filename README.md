@@ -8,7 +8,7 @@
   This summer, I worked at Climate LLC for a second consecutive year working on the Data Experience team. I've been focused on production support, configuring observability software, leading a cost-tracking initiative, and working on our microservices architecture using a multitude of software tools, languages, and techniques.
   Now, I'm focused on my [capstone project](https://github.com/Green-Goblins-CSC394/greenGroupEcommerce) for my Computer Science degree program and learning Rust :crab: on my own time.
 - 💼 I just accepted an offer from Climate to work as an Engineer starting in 2024! I'm so excited to return to such an innovative company and continue working in Chicago with my insightful and intelligent colleagues :)
-- :closed_book: I'm excited for my Fall coursework at DePaul in compiler design and data science, but I'm really excited for my Capstone Software Projects class.
+- :closed_book: I'm wrapping up my Fall coursework at DePaul in compiler design and data science, and I just completed my Senior Capstone. I'm looking forward to coursework in Web Assembly and Distributed Systems.
 - 💞️ I’m looking to collaborate on Rust projects and projects finding creative solutions regarding sustainability.
 - 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
 
@@ -17,7 +17,6 @@
 - Java
 - React
 - Rust
-- C
 - Spring Boot
 - SQL (MySQL, PostgreSQL, SQLite)
 ---
