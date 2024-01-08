@@ -7,7 +7,7 @@
 - 🛠️ This spring, I finished a basic version of a Java-based Git Repository Code Analysis tool. I also wrapped up an internship at CCC Intelligent Solutions in May. I worked on the Workflow team on security optimizations, new security protocols, API development, and enhancements for my team's main search algorithm.
   This summer, I worked at Climate LLC for a second consecutive year working on the Data Experience team. I've been focused on production support, configuring observability software, leading a cost-tracking initiative, and working on our microservices architecture using a multitude of software tools, languages, and techniques.
   My fall quarter was largely spent working on my [capstone project](https://github.com/Green-Goblins-CSC394/greenGroupEcommerce) for my Computer Science degree program.
-  Now, I'm focused on my upcoming classes in Web Assembly and distributed systems as well as learning Rust :crab: on my own time.
+  Now, I'm focused on my current classes in Web Assembly and distributed systems as well as learning Rust :crab: on my own time.
 - 💼 I just accepted an offer from Climate to work as an Engineer starting in 2024! I'm so excited to return to such an innovative company and continue working in Chicago with my insightful and intelligent colleagues :)
 - :octocat: To keep my coding fingers busy, I've delved into the world of open source. I'm currently making my first contributions to the [Jenkins project](https://github.com/jenkinsci/jenkins)!
 - :closed_book: I'm wrapping up my Fall coursework at DePaul in compiler design and data science, and I just completed my Senior Capstone. I'm looking forward to coursework in Web Assembly and Distributed Systems.
