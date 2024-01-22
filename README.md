@@ -14,13 +14,18 @@
 - 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
 
 ### Languages and Technologies
+##### Professional Experience
 - Python
 - Java
+- SQL (PostgreSQL, MySQL)
+- Spring Boot
+
+##### Personal Experience
 - React
 - Rust
-- Spring Boot
-- SQL (MySQL, PostgreSQL, SQLite)
+- SQLite
 - WebAssembly
+- C
 ---
 ### Tools
 - Git / Github / Gitlab
