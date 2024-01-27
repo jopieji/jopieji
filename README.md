@@ -11,7 +11,7 @@
 - 💼 I just accepted an offer from Climate to work as an Engineer starting in 2024! I'm so excited to return to such an innovative company and continue working in Chicago with my insightful and intelligent colleagues
 - :closed_book: I'm wrapping up my Fall coursework at DePaul in compiler design and data science, and I just completed my Senior Capstone project, an ecommerce solution with Stripe and AWS integrations. I'm looking forward to coursework in Web Assembly and Distributed Systems.
 - 💞️ I’m looking to collaborate on Rust projects or anything interesting the open source space!
-- 📫 You can email me at jakeopie9@gmail.com, or reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
+- 📫 You can reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
 
 ### Languages and Technologies
 ##### Professional Experience
