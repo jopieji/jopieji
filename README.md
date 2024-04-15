@@ -27,6 +27,7 @@ Last summer, I worked at Climate LLC for a second consecutive year working on th
 - SQLite
 - WebAssembly
 - C
+- C++
 ---
 ### Other Tools
 - Plaid
