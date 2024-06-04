@@ -34,6 +34,7 @@ Last summer, I worked at Climate LLC for a second consecutive year working on th
 - Azure
 - Firebase
 - SVN
+- Perforce
 - Selenium
 - Familiar with Agile, SAFe, and JIRA Suite, VersionOne
 - Familiar with SDLC and industry best practices
