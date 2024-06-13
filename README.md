@@ -9,7 +9,7 @@ Last summer, I worked at Climate LLC for a second consecutive year working on th
   My fall quarter was largely spent working on my [capstone project](https://github.com/Green-Goblins-CSC394/greenGroupEcommerce) for my Computer Science degree program.
   My winter quarter was spent helping my mom launch her business and learning about distributed systems and web assembly in my coursework.
 - 💼 I just accepted an offer from Climate to work as an Engineer starting in 2024! I'm so excited to return to such an innovative company and continue working in Chicago with my insightful and intelligent colleagues
-- :closed_book: I am entering my last quarter at DePaul University, and I'm stepping out of my comfort zone with courswork in web applications, real time networking (on hardware), and optimized C++.
+- :closed_book: I am finishing my last quarter at DePaul University, and I'm stepping out of my comfort zone with coursework in web applications, real time networking (on hardware), and optimized C++.
 - 💞️ I’m looking to collaborate on Rust projects or anything interesting the open source space!
 - 📫 You can reach out to me on LinkedIn at https://www.linkedin.com/in/jake-opie-992b19218/
 
