@@ -21,7 +21,7 @@ Last summer, I worked at Climate LLC for a second consecutive year working on th
 - Spring Boot
 - AWS, Docker, Git/Github/Gitlab, Maven, Datadog, Splunk, Shell Scripting, Jenkins, Postman, Agile, SVN
 
-##### Personal Experience
+##### Personal and Scholastic Experience
 - React
 - Rust
 - SQLite
