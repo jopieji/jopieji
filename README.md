@@ -4,7 +4,7 @@
 
 - 👋 I'm a software engineer and recent graduate from DePaul University.
 - 👀 I’m interested in sports, cooking, finance, sustainability, and music.
-- 💼 I'm excited to get started at Climate LLC / Bayer Crop Science in July, working on a event-driven microservices architecture to enable more innovative farming practices.
+- 💼 I currently work at Climate / Bayer Crop Science on an event-driven microservices architecture spearheading innovative and efficient digital farming practices.
 - 🛠️ Currently, I'm building a reminder application using C# and React that will push reminder notifications to my cell phone and email daily. I'm also looking to complete a personal finance tracking application I started before my last (chaotic) quarter of school that uses Teller. 
   My fall quarter was largely spent working on my [capstone project](https://github.com/Green-Goblins-CSC394/greenGroupEcommerce) for my Computer Science degree program.
   My winter quarter was spent helping my mom launch her business and learning about distributed systems and web assembly in my coursework.
